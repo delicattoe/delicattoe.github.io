@@ -7118,6 +7118,7 @@ a.close.disabled {
     color: #525f7f;
 }
 
+/*
 .carousel {
     position: relative;
 }
@@ -7145,6 +7146,7 @@ a.close.disabled {
     width: 100%;
     margin-right: -100%;
     backface-visibility: hidden;
+    transition: transform 0.6s ease-in-out;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -7304,7 +7306,7 @@ a.close.disabled {
     padding-bottom: 20px;
     color: #fff;
     text-align: center;
-}
+} */
 
 @keyframes spinner-border {
     to {
